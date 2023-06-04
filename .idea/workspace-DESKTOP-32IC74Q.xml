@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e863aae3-006d-42c6-b0be-b6969106c7b7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QC1Ht4jAVZ19JrsqX0vFgphLlD" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/rolan/OneDrive/Dokumente/My Games/Wesnoth1.16/data/add-ons/Deception",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rolan\OneDrive\Dokumente\My Games\Wesnoth1.16\data\add-ons\Deception\images\maps" />
+      <recent name="C:\Users\rolan\OneDrive\Dokumente\My Games\Wesnoth1.16\data\add-ons\Deception\images\terrain" />
+      <recent name="C:\Users\rolan\OneDrive\Dokumente\My Games\Wesnoth1.16\data\add-ons\Deception\images\attacks" />
+      <recent name="C:\Users\rolan\OneDrive\Dokumente\My Games\Wesnoth1.16\data\add-ons\Deception\images\progression" />
+      <recent name="C:\Users\rolan\OneDrive\Dokumente\My Games\Wesnoth1.16\data\add-ons\Deception\images\items" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rolan\OneDrive\Dokumente\My Games\Wesnoth1.16\data\add-ons\Deception\images\items" />
+      <recent name="C:\Users\rolan\OneDrive\Dokumente\My Games\Wesnoth1.16\data\add-ons\Deception\images\units" />
+      <recent name="C:\Users\rolan\OneDrive\Dokumente\My Games\Wesnoth1.16\data\add-ons\Deception\images\terrain\corpses" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e863aae3-006d-42c6-b0be-b6969106c7b7" name="Changes" comment="" />
+      <created>1684842664276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684842664276</updated>
+      <workItem from="1684842665343" duration="3297000" />
+      <workItem from="1684854976676" duration="6635000" />
+      <workItem from="1684907611642" duration="5869000" />
+      <workItem from="1684921894743" duration="69093000" />
+      <workItem from="1685111590849" duration="32351000" />
+      <workItem from="1685388947223" duration="2740000" />
+      <workItem from="1685419899839" duration="22068000" />
+      <workItem from="1685454691183" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
+</project>

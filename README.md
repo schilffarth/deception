@@ -29,7 +29,7 @@ include, but is not limited to:
    
 Discord: @Durmoth#0695
 
-Github: https://github.com/schilffarth/wesnoth-deception/
+Github: https://github.com/schilffarth/deception/
 
 ## Storywriting:
 

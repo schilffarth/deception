@@ -54,6 +54,6 @@ provided by myself.
 
 @Discord user tag | Wesnoth forum username | Github username
 
-- IceSandslash | @IceSandslash#5238 | ?: thank you for playtesting a rather early version of Part 1!
+- IceSandslash | @IceSandslash#5238 | Slayer95: thank you for playtesting a rather early version of Part 1!
 
-- ? | ? | knyghtmare: thank you for WML code review on github!
+- Lord-Knightmare | @knyghtmare#8753 | knyghtmare: thank you for WML code review on github!

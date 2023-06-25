@@ -1,0 +1,3 @@
+duel animations
+animations bloodscourge & doombringer
+lock center of scenario 104 behind second rune

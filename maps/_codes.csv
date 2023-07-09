@@ -1,0 +1,235 @@
+name;string
+Gray Deep Water;Wog
+Medium Deep Water;Wo
+Tropical Deep Water;Wot
+Gray Shallow Water;Wwg
+Medium Shallow Water;Ww
+Tropical Shallow Water;Wwt
+Ford;Wwf
+Gray Coastal Reef;Wwrg
+Medium Coastal Reef;Wwr
+Tropical Coastal Reef;Wwrt
+Swamp Water Reed;Ss
+Muddy Quagmire;Sm
+Green Grass;Gg
+Semi-dry Grass;Gs
+Dry Grass;Gd
+Leaf Litter;Gll
+Dark Dirt;Rb
+Regular Dirt;Re
+Dry Dirt;Rd
+Regular Cobbles;Rr
+Clean Gray Cobbles;Rrc
+Overgrown Cobbles;Rp
+Icy Cobbles;Rra
+Ice;Ai
+Snow;Aa
+Desert Sands;Dd
+Beach Sands;Ds
+Oasis;^Do
+Rubble;^Dr
+Crater;Dd^Dc
+Mixed Flowers;^Efm
+Farmland;^Gvs
+Stones;^Es
+Snowbits;^Esa
+Small Mushrooms;^Em
+Mushroom Farm;^Emf
+Desert Plants;^Edp
+Desert Plants without Bones;^Edpp
+Windmill;^Wm
+Campfire;^Ecf
+Sconce;^Efs
+Brazier;^Eb
+Lit Brazier;^Ebn
+Fence;^Eff
+Iron Fence;^Eqf
+Stones with Sand Drifts;^Esd
+Water Lilies;^Ewl
+Flowering Water Lilies;^Ewf
+Trash;^Edt
+Remains;^Edb
+Great Tree;^Fet
+Snowy Great Tree;^Feta
+Dead Great Tree;^Fetd
+Dead Great Oak Tree;^Feth
+Tropical Forest;^Ft
+Rainforest;^Ftr
+Palm Forest;^Ftd
+Dense Palm Forest;^Ftp
+Savanna;^Fts
+Pine Forest;^Fp
+Snowy Pine Forest;^Fpa
+Summer Deciduous Forest;^Fds
+Fall Deciduous Forest;^Fdf
+Winter Deciduous Forest;^Fdw
+Snowy Deciduous Forest;^Fda
+Summer Mixed Forest;^Fms
+Fall Mixed Forest;^Fmf
+Winter Mixed Forest;^Fmw
+Snowy Mixed Forest;^Fma
+Regular Hills;Hh
+Dry Hills;Hhd
+Dunes;Hd
+Snow Hills;Ha
+Regular Mountains;Mm
+Dry Mountains;Md
+Snowy Mountains;Ms
+Desert Mountains;Mdd
+Basic Stone Floor;Irs
+Ancient Stone Floor;Ias
+Royal Rug;Icr
+Normal Rug;Icn
+Cave Rug;Urc
+Basic Wooden Floor;Iwr
+Old Wooden Floor;Ior
+Beam of Light;^Ii
+Cave Floor;Uu
+Earthy Cave Floor;Uue
+Dark Flagstones;Urb
+Cave Path;Ur
+Mushroom Grove;^Tf
+Lit Mushroom Grove;^Tfi
+Mycelium;Tb
+Rockbound Cave;Uh
+Earthy Rockbound Cave;Uhe
+Mine Rail;^Br|
+Mine Rail;^Br/
+Mine Rail;^Br\
+Regular Chasm;Qxu
+Earthy Chasm;Qxe
+Ethereal Abyss;Qxua
+Lava Chasm;Ql
+Lava;Qlf
+Volcano;Mv
+Regular Impassable Mountains;Mm^Xm
+Dry Impassable Mountains;Md^Xm
+Snowy Impassable Mountains;Ms^Xm
+Desert Impassable Mountains;Mdd^Xm
+Natural Cave Wall;Xu
+Mine Wall;Xuc
+Natural Earthy Cave Wall;Xue
+Stone Wall;Xos
+Straight Mine Wall;Xom
+Straight White Wall;Xoi
+Clean Stone Wall;Xoc
+Ancient Stone Wall;Xoa
+Catacombs Stone Wall;Xot
+Overgrown Stone Wall;Xof
+Rusty Gate;^Pr\
+Rusty Gate;^Pr/
+Rusty Gate;^Pr|
+Wooden Door;^Pw\
+Wooden Door;^Pw/
+Wooden Door;^Pw|
+Open Rusty Gate;^Pr\o
+Open Rusty Gate;^Pr/o
+Open Rusty Gate;^Pr|o
+Open Wooden Door;^Pw\o
+Open Wooden Door;^Pw/o
+Open Wooden Door;^Pw|o
+Impassable Overlay;^Xo
+Unwalkable Overlay;^Qov
+Void;Xv
+Adobe Village;^Vda
+Ruined Adobe Village;^Vdr
+Desert Tent Village;^Vdt
+Tent Village;^Vct
+Orcish Village;^Vo
+Snowy Orcish Village;^Voa
+Snowy Elven Village;^Vea
+Elven Village;^Ve
+Cottage;^Vh
+Snowy Cottage;^Vha
+Ruined Cottage;^Vhr
+Human City;^Vhc
+Windmill Village;^Vwm
+Snowy Human City;^Vhca
+Ruined Human City;^Vhcr
+Hill Stone Village;^Vhh
+Snowy Hill Stone Village;^Vhha
+Ruined Hill Stone Village;^Vhhr
+Tropical Village;^Vht
+Drake Village;^Vd
+Cave Village;^Vu
+Dwarven Village;^Vud
+Hut;^Vc
+Snowy Hut;^Vca
+Log Cabin;^Vl
+Snowy Log Cabin;^Vla
+Igloo;^Vaa
+Swamp Village;^Vhs
+Merfolk Village;^Vm
+Village Overlay;^Vov
+Encampment;Ce
+Ruined Encampment;Cer
+Snowy Encampment;Cea
+Orcish Castle;Co
+Snowy Orcish Castle;Coa
+Human Castle;Ch
+Snowy Human Castle;Cha
+Elven Castle;Cv
+Elven Castle Ruin;Cvr
+Winter Elven Castle;Cva
+Dwarven Underground Castle;Cud
+Dwarven Castle;Cf
+Dwarven Castle Ruins;Cfr
+Winter Dwarven Castle;Cfa
+Ruined Human Castle;Chr
+Sunken Human Ruin;Chw
+Swamp Human Ruin;Chs
+Desert Castle;Cd
+Ruined Desert Castle;Cdr
+Troll Encampment;Cte
+Aquatic Encampment;Cme
+Aquatic Castle;Cm
+Encampment Keep;Ke
+Ruined Encampment Keep;Ker
+Tall Encampment Keep;Ket
+Snowy Encampment Keep;Kea
+Orcish Keep;Ko
+Snowy Orcish Keep;Koa
+Human Castle Keep;Kh
+Snowy Human Castle Keep;Kha
+Elven Castle Keep;Kv
+Elven Keep Ruin;Kvr
+Winter Elven Keep;Kva
+Dwarven Underground Keep;Kud
+Dwarven Castle Keep;Kf
+Dwarven Ruin Keep;Kfr
+Winter Dwarven Keep;Kfa
+Ruined Human Castle Keep;Khr
+Sunken Human Castle Keep;Khw
+Swamp Human Castle Keep;Khs
+Desert Keep;Kd
+Ruined Desert Keep;Kdr
+Aquatic Encampment Keep;Kme
+Troll Encampment Keep;Kte
+Aquatic Keep;Km
+Castle Overlay;^Cov
+Keep Overlay;^Kov
+Wooden Bridge;^Bw|
+Wooden Bridge;^Bw/
+Wooden Bridge;^Bw\
+Rotting Bridge;^Bw|r
+Rotting Bridge;^Bw/r
+Rotting Bridge;^Bw\r
+Basic Stone Bridge;^Bsb|
+Basic Stone Bridge;^Bsb\
+Basic Stone Bridge;^Bsb/
+Cave Chasm Bridge;^Bs|
+Cave Chasm Bridge;^Bs/
+Cave Chasm Bridge;^Bs\
+Hanging Bridge;^Bh\
+Hanging Bridge;^Bh/
+Hanging Bridge;^Bh|
+Stone Chasm Bridge;^Bcx\
+Stone Chasm Bridge;^Bcx/
+Stone Chasm Bridge;^Bcx|
+Plank Bridge;^Bp\
+Plank Bridge;^Bp/
+Plank Bridge;^Bp|
+Off Map;_off^_usr
+Fake Map Border;^_fme
+Fake Shroud;^_s
+Fog;_f

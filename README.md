@@ -36,7 +36,7 @@ The term "frankensteining" describes the process of combining selections of sour
 - `/images/units/goblins` Copied from A Sanguin Tale
 - `/images/units/humans` Copied from mainline
 - `/images/units/nagas` Copied from mainline
-- `/images/units/orcs` The shamans are copied from mainline, all other units are ornamented & frankensteined from mainline
+- `/images/units/orcs` The shamans are copied from mainline, the emperor is copied from The Dark Rising, all other units are ornamented & frankensteined from mainline
 - `/images/units/saurians` Copied from Era of Magic
 - `/images/units/trolls` Copied from Legends of the Invincibles
 - `/images/units/undead` Dreadsniper is copied from Legends of the Invincibles, the Baron and riders are copied from mainline, all remaining unit sprites are ornamented & frankensteined from mainline

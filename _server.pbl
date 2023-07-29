@@ -4,6 +4,7 @@ icon="items/altar-evil.png"
 version="0.1.1"
 author="Roland Peter Schilffarth"
 email="roland.schilffarth@gmail.com"
+dependencies=rps-units
 [feedback]
     topic_id=56976
 [/feedback]
